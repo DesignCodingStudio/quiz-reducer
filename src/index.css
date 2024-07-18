@@ -3,3 +3,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.correct {
+  background: rgb(157, 241, 157);
+  color: black;
+}
+
+.wrong {
+  background: rgb(255, 152, 152);
+  color: black;
+}
